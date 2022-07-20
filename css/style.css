@@ -1,0 +1,131 @@
+*{
+	font-family: 'Baloo 2', cursive;
+}
+
+header{
+	background-color: black;
+	color: white;
+}
+
+container-fluid{
+	background-color: black;
+}
+
+.button {
+  font: bold 11px Arial;
+  text-decoration: none;
+  background-color: #EEEEEE;
+  color: #333333;
+  padding: 2px 6px 2px 6px;
+  border-top: 1px solid #CCCCCC;
+  border-right: 1px solid #333333;
+  border-bottom: 1px solid #333333;
+  border-left: 1px solid #CCCCCC;
+  border-radius: 12px;
+}
+
+#inicio {
+	text-align: right;
+}
+
+.logo img {display: block;
+	margin: 25px;
+	height: 50px; 
+}
+
+p{
+	color: white;
+}
+
+.cuerpo{
+	width: auto;
+	height: auto;
+	display: flex;
+	align-items: stretch;
+	justify-content: space-between;
+	margin-bottom: 20px;
+	margin-left: 65px;
+	margin-top: 40px;
+	margin-right: 65px;
+	align-content: space-between;
+}
+
+.muestra{
+	width: auto;
+	height: auto;
+	display: flex;
+	align-items: stretch;
+	justify-content: space-between;
+	margin-top: 20px;
+	margin-bottom: 40px;
+	margin-left: 65px;
+	margin-right: 65px;
+	align-content: space-between;
+}
+
+body{
+	background-color: #191915;
+}
+
+h1{
+	color: darkgrey;
+	text-align: center;
+	margin-top: 25px;
+	font-family: 'Baloo 2', cursive;
+}
+
+.info{
+	text-align: center;
+}
+
+#content form {
+	text-align: right;
+}
+
+#lista{
+	color: white;
+}
+
+h2{
+	color: red;
+}
+
+footer{
+	background-color: black;
+}
+
+footer a {
+	text-decoration: none;   
+	color: white;
+}
+
+#cambio_idioma{
+	text-align: center;
+}
+
+#titulo_footer{
+	text-align: center;
+	color: white;
+}
+
+form{
+	color: white;
+}
+
+#emailHelp{
+	color: darkgrey;
+	font-size: 12px;
+}
+
+.redes{
+	text-align: center;
+}
+
+.redes_sociales{
+	text-align: center;
+}
+
+i{
+    color: white;
+    font-size: 25px;
+}
